@@ -1,0 +1,16 @@
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.exe
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.deps.json
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.runtimeconfig.json
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.runtimeconfig.dev.json
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.dll
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\ref\HelloVilag.dll
+U:\CSharp\1ora\HelloVilag\HelloVilag\bin\Debug\net5.0\HelloVilag.pdb
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.csproj.AssemblyReference.cache
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.GeneratedMSBuildEditorConfig.editorconfig
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.AssemblyInfoInputs.cache
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.AssemblyInfo.cs
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.csproj.CoreCompileInputs.cache
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.dll
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\ref\HelloVilag.dll
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.pdb
+U:\CSharp\1ora\HelloVilag\HelloVilag\obj\Debug\net5.0\HelloVilag.genruntimeconfig.cache
