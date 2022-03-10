@@ -46,16 +46,6 @@
         "build": {
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
-      },
-      "Test/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Test.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Test.dll": {}
-        }
       }
     }
   },
@@ -253,18 +243,12 @@
         "nunit3testadapter.4.2.1.nupkg.sha512",
         "nunit3testadapter.nuspec"
       ]
-    },
-    "Test/1.0.0": {
-      "type": "project",
-      "path": "../Test/Test.csproj",
-      "msbuildProject": "../Test/Test.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "NUnit >= 3.13.2",
-      "NUnit3TestAdapter >= 4.2.1",
-      "Test >= 1.0.0"
+      "NUnit3TestAdapter >= 4.2.1"
     ]
   },
   "packageFolders": {
@@ -297,11 +281,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\valaki\\Documents\\CSharp-kurzus\\4ora\\Test\\Test\\Test.csproj": {
-              "projectPath": "C:\\Users\\valaki\\Documents\\CSharp-kurzus\\4ora\\Test\\Test\\Test.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
