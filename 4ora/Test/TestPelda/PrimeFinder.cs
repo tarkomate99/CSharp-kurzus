@@ -8,7 +8,7 @@ namespace TestPelda
         {
             if (input == 2) return true;
             if (input < 3) return false; 
-            for (int i = 3; i < Math.Sqrt(input); i++) 
+            for (int i = 2; i <= Math.Sqrt(input); i++) 
             {
                 if (input % i == 0) {
                     return false;

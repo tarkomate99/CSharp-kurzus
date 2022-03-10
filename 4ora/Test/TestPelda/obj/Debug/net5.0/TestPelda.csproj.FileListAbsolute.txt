@@ -12,7 +12,6 @@ C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\bin\Debug\net5.0\Tes
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\bin\Debug\net5.0\ref\TestPelda.dll
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\bin\Debug\net5.0\TestPelda.pdb
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\bin\Debug\net5.0\nunit.framework.dll
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\obj\Debug\net5.0\TestPelda.csproj.AssemblyReference.cache
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\obj\Debug\net5.0\TestPelda.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\obj\Debug\net5.0\TestPelda.AssemblyInfoInputs.cache
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda\obj\Debug\net5.0\TestPelda.AssemblyInfo.cs

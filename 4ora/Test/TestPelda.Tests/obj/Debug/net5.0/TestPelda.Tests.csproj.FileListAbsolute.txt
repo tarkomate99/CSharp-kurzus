@@ -1,8 +1,3 @@
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.csproj.AssemblyReference.cache
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.AssemblyInfoInputs.cache
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.AssemblyInfo.cs
-C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.csproj.CoreCompileInputs.cache
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\testhost.dll
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\TestPelda.deps.json
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\TestPelda.runtimeconfig.json
@@ -100,6 +95,11 @@ C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\TestPelda.dll
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\bin\Debug\net5.0\TestPelda.pdb
+C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.csproj.AssemblyReference.cache
+C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.AssemblyInfoInputs.cache
+C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.AssemblyInfo.cs
+C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.csproj.CoreCompileInputs.cache
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.csproj.CopyComplete
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\TestPelda.Tests.dll
 C:\Users\valaki\Documents\CSharp-kurzus\4ora\Test\TestPelda.Tests\obj\Debug\net5.0\ref\TestPelda.Tests.dll
