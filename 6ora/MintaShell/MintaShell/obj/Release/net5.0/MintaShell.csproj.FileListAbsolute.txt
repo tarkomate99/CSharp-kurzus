@@ -1,0 +1,16 @@
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.exe
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.deps.json
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.runtimeconfig.json
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.runtimeconfig.dev.json
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\ref\MintaShell.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\bin\Release\net5.0\MintaShell.pdb
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.csproj.AssemblyReference.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.AssemblyInfoInputs.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.AssemblyInfo.cs
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.csproj.CoreCompileInputs.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\ref\MintaShell.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.pdb
+C:\Users\valaki\Downloads\CSharp-kurzus\6ora\MintaShell\MintaShell\obj\Release\net5.0\MintaShell.genruntimeconfig.cache
