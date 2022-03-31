@@ -20,7 +20,8 @@ namespace MessageBoxExample
 
         public static void ShowMessageBox(string content, string title, MessageBoxType type, MessageBoxIcon icon)
         {
-            MessageBox(IntPtr.Zero, content, title, (uint)type |(uint)icon);
+            if (Environment.OSVersion.Platform != PlatformID.Unix)
+                MessageBox(IntPtr.Zero, content, title, (uint)type |(uint)icon);
         }
     }
 
