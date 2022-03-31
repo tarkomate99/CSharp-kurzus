@@ -1,0 +1,16 @@
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.exe
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.deps.json
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.runtimeconfig.json
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.runtimeconfig.dev.json
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\ref\MessageBoxExample.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\bin\Debug\net5.0\MessageBoxExample.pdb
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.csproj.AssemblyReference.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.AssemblyInfoInputs.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.AssemblyInfo.cs
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\ref\MessageBoxExample.dll
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.pdb
+C:\Users\valaki\Downloads\CSharp-kurzus\7ora\MessageBoxExample\MessageBoxExample\obj\Debug\net5.0\MessageBoxExample.genruntimeconfig.cache
