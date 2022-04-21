@@ -8,30 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\valaki\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valaki\\Downloads\\CSharp-kurzus\\6ora\\MintaShell\\MintaShell\\MintaShell.csproj",
+      "projectUniqueName": "/Users/mac/Documents/CSharp-kurzus/6ora/MintaShell/MintaShell/MintaShell.csproj",
       "projectName": "MintaShell",
-      "projectPath": "C:\\Users\\valaki\\Downloads\\CSharp-kurzus\\6ora\\MintaShell\\MintaShell\\MintaShell.csproj",
-      "packagesPath": "C:\\Users\\valaki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valaki\\Downloads\\CSharp-kurzus\\6ora\\MintaShell\\MintaShell\\obj\\",
+      "projectPath": "/Users/mac/Documents/CSharp-kurzus/6ora/MintaShell/MintaShell/MintaShell.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Documents/CSharp-kurzus/6ora/MintaShell/MintaShell/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\valaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

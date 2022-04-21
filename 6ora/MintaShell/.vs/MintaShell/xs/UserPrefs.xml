@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{DDE4F7B7-EE44-496C-BF04-8D06F216E72E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MintaShell PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MintaShell" expanded="True">
+            <Node name="MintaShell" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="RulezCommand.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

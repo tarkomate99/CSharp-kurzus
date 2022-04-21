@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ConcurrentCollections.deps.json
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ConcurrentCollections.runtimeconfig.json
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ConcurrentCollections.runtimeconfig.dev.json
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ConcurrentCollections.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ref/ConcurrentCollections.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/bin/Debug/net5.0/ConcurrentCollections.pdb
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.AssemblyInfo.cs
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ref/ConcurrentCollections.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.pdb
+/Users/mac/Documents/CSharp-kurzus/9ora/ConcurrentCollections/ConcurrentCollections/obj/Debug/net5.0/ConcurrentCollections.genruntimeconfig.cache

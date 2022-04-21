@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.AssemblyInfo.cs
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/Task.deps.json
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/Task.runtimeconfig.json
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/Task.runtimeconfig.dev.json
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/Task.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/ref/Task.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/bin/Debug/net5.0/Task.pdb
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/ref/Task.dll
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.pdb
+/Users/mac/Documents/CSharp-kurzus/9ora/Task/Task/obj/Debug/net5.0/Task.genruntimeconfig.cache

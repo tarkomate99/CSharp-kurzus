@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CCEC05C8-801C-413B-A2F5-B4103A91AA68}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessageBoxExample/Program.cs">
+    <Files>
+      <File FileName="MessageBoxExample/MessageBox.cs" Line="1" Column="1" />
+      <File FileName="MessageBoxExample/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessageBoxExample" expanded="True">
+            <Node name="MessageBoxExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MessageBoxExample PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
